@@ -1,0 +1,38 @@
+Harmony.dll v1.2 mit KeySupport eingebunden
+Letzte Compilierung: 19.01.04 02:45 AM
+Copyright 2001 - 2003 Dominik Wondrousch alias Ineluki
+
+Aufgerufen von X:\Games\RpgMaker\RM2K\Unterwegs in Düsterburg\RPG_RT.exe TestPlay ShowTitle Window 
+Extracting Resources ...
+Application.Initialize
+Queue Initialisiert
+Cheatmannager initialisiert
+KeyEventTimer initialisiert
+Found MS Windows NT Kernel (2) Vers: 6.0
+-> Using mciqtz32.drv
+ScriptAction mcicommand registriert.
+ScriptAction writetolog registriert.
+ScriptAction setdebuglevel registriert.
+ScriptAction execprogram registriert.
+ScriptAction miditickfunction registriert.
+ScriptAction addoutput registriert.
+ScriptAction enablekeysupport registriert.
+ScriptAction registerkeydownevent registriert.
+ScriptAction registerkeyupevent registriert.
+ScriptAction registercheatevent registriert.
+ScriptAction removeblockedkeys registriert.
+ScriptAction enablemousesupport registriert.
+ScriptAction getmouseposition registriert.
+Testplay -> Splashscreen kuerzer
+Initialisierung abgeschlossen nach 811 ms.
+
+
+HarmonyPlaySoundEx fehlgeschlagen
+HarmonyPlaySoundEx fehlgeschlagen
+Harmony.dll wird zum Beenden vorbereitet.
+OutputQueue freigegeben
+CheatMannager freigegeben
+Actions freigegeben.
+AutorunTimer freigegeben.
+KeyEventTimer freigegeben.
+HarmonyRelease gescheitert
