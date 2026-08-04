@@ -1,5 +1,10 @@
 # Unterwegs in Düsterburg - Web Version
 
+Deutsche Version spielen:
+https://uidforeveryone.github.io/uidgame/de/
+Play English Version:
+https://uidforeveryone.github.io/uidgame/en/
+
 ## Project Overview
 * Web-based version of the RPG Maker 2000 game "Unterwegs in Düsterburg".
 * Purpose: Allows execution of the game directly in modern internet browsers without requiring a local installation or specific operating system.
