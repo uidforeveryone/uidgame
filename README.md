@@ -25,6 +25,8 @@ https://uidforeveryone.github.io/uidgame/en/
 * **Arrow Keys:** Movement
 * **Enter / Z:** Action / Confirm
 * **Esc / X:** Menu / Cancel / Go Back
+* **F / G:** Fast forward (3x/10x)
+* **F1:** Engine Settings (e.g. Audio Volume)
 
 ## Licenses and Copyrights
 * **Game Data:** "Unterwegs in Düsterburg" All game files, story, and custom assets are the intellectual property of the original author.
