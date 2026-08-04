@@ -19,6 +19,9 @@
 * **Game Data:** "Unterwegs in Düsterburg" All game files, story, and custom assets are the intellectual property of the original author.
 * **Software:** [EasyRPG Player](https://easyrpg.org/) is open-source software licensed under the GNU General Public License v3.0 (GPLv3).
 * **Audio (MIDI):** Utilizes open-source General MIDI SoundFont GeneralUser GS v2.0.3 for music playback.
+
+## GeneralUser GS v2.0.3 License
+`
 * *** GeneralUser GS v2.0.3 ***
 ***      License v2.0     ***
 
@@ -66,3 +69,4 @@ https://www.schristiancollins.com/contact
 
 Thank you!
 -~Chris
+`
