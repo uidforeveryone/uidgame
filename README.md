@@ -16,7 +16,7 @@ https://uidforeveryone.github.io/uidgame/en/
 *  **Language-Cross-Compatibility:** Save data is automatically transferred between the English and German version.
 
 ## Technical Details
-* **Engine:** Uses the EasyRPG Player via WebAssembly (`.wasm`).
+* **Engine:** Uses the EasyRPG Player (https://github.com/easyrpg/player) via WebAssembly (`.wasm`).
 * **Execution:** Runs entirely client-side within the browser's sandbox environment. Requires no server-side processing.
 * **File Handling:** Game assets (graphics, audio, maps) are loaded into the browser's temporary cache during execution.
 * **Save Data:** Save states are stored locally on the user's device inside the browser's IndexedDB. Closing the tab ends the process, but saves remain intact in the browser.
