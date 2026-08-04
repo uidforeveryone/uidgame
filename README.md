@@ -10,6 +10,11 @@ https://uidforeveryone.github.io/uidgame/en/
 * Purpose: Allows execution of the game directly in modern internet browsers without requiring a local installation or specific operating system.
 * English Translation (v1.3) of the game by Aranael
 
+## Notes
+* Note 1: The total size of the game files is up to 90 MB, with 60 MB dedicated to the music. Approximately 43 MB are downloaded when you first launch the game. Downloading via mobile data without Wi-Fi (e.g., while on the go using a smartphone or tablet) is not recommended due to data usage.
+*  Note 2: Save data cannot be transferred between the offline and online versions.
+*  Language-Cross-Compatibility: Save data is automatically transferred between the English and German version.
+
 ## Technical Details
 * **Engine:** Uses the EasyRPG Player via WebAssembly (`.wasm`).
 * **Execution:** Runs entirely client-side within the browser's sandbox environment. Requires no server-side processing.
