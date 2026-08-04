@@ -1,11 +1,22 @@
 # Unterwegs in Düsterburg - Web Version
 
+Deutsche Version spielen:
+https://uidforeveryone.github.io/uidgame/de/<br>
+Play English Version:
+https://uidforeveryone.github.io/uidgame/en/
+
 ## Project Overview
 * Web-based version of the RPG Maker 2000 game "Unterwegs in Düsterburg".
 * Purpose: Allows execution of the game directly in modern internet browsers without requiring a local installation or specific operating system.
+* English Translation (v1.3) of the game by Aranael
+
+## Notes
+* **Note 1:** The total size of the game files is up to 90 MB, with 60 MB dedicated to the music. Approximately 43 MB are downloaded when you first launch the game. Downloading via mobile data without Wi-Fi (e.g., while on the go using a smartphone or tablet) is not recommended due to data usage.
+*  **Note 2:** Save data cannot be transferred between the offline and online versions.
+*  **Language-Cross-Compatibility:** Save data is automatically transferred between the English and German version.
 
 ## Technical Details
-* **Engine:** Uses the EasyRPG Player via WebAssembly (`.wasm`).
+* **Engine:** Uses the EasyRPG Player (https://github.com/easyrpg/player) via WebAssembly (`.wasm`).
 * **Execution:** Runs entirely client-side within the browser's sandbox environment. Requires no server-side processing.
 * **File Handling:** Game assets (graphics, audio, maps) are loaded into the browser's temporary cache during execution.
 * **Save Data:** Save states are stored locally on the user's device inside the browser's IndexedDB. Closing the tab ends the process, but saves remain intact in the browser.
@@ -20,7 +31,7 @@
 * **Software:** [EasyRPG Player](https://easyrpg.org/) is open-source software licensed under the GNU General Public License v3.0 (GPLv3).
 * **Audio (MIDI):** Utilizes open-source General MIDI SoundFont GeneralUser GS v2.0.3 for music playback.
 
-## GeneralUser GS v2.0.3 License
+## Soundfont: GeneralUser GS v2.0.3 License
 ```txt
 * *** GeneralUser GS v2.0.3 ***
 ***      License v2.0     ***
