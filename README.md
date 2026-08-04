@@ -8,6 +8,7 @@ https://uidforeveryone.github.io/uidgame/en/
 ## Project Overview
 * Web-based version of the RPG Maker 2000 game "Unterwegs in Düsterburg".
 * Purpose: Allows execution of the game directly in modern internet browsers without requiring a local installation or specific operating system.
+* English Translation (v1.3) of the game by Aranael
 
 ## Technical Details
 * **Engine:** Uses the EasyRPG Player via WebAssembly (`.wasm`).
