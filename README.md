@@ -21,7 +21,7 @@
 * **Audio (MIDI):** Utilizes open-source General MIDI SoundFont GeneralUser GS v2.0.3 for music playback.
 
 ## GeneralUser GS v2.0.3 License
-`
+```txt
 * *** GeneralUser GS v2.0.3 ***
 ***      License v2.0     ***
 
@@ -69,4 +69,4 @@ https://www.schristiancollins.com/contact
 
 Thank you!
 -~Chris
-`
+```
