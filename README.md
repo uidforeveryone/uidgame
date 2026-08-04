@@ -1,7 +1,7 @@
 # Unterwegs in Düsterburg - Web Version
 
 Deutsche Version spielen:
-https://uidforeveryone.github.io/uidgame/de/
+https://uidforeveryone.github.io/uidgame/de/<br>
 Play English Version:
 https://uidforeveryone.github.io/uidgame/en/
 
